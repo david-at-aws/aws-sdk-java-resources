@@ -1,4 +1,4 @@
-# AWS Resource APIs for Java
+# AWS Resource APIs for Java [![Build Status](https://travis-ci.org/awslabs/aws-sdk-java-resources.svg?branch=master)](https://travis-ci.org/awslabs/aws-sdk-java-resources)
 
 An object-oriented abstraction over the clients from the [AWS SDK for Java][sdk].
 
